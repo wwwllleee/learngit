@@ -8,4 +8,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 software aaaaaaaaaaaa
 ddddww
-creating a new ranch is quick
+creating a new ranch is a quick !
